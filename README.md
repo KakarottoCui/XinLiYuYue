@@ -11,7 +11,7 @@ SpringMVC，jsp视图，前台Bootstrap
 
 mysql5.7，JDK1.8，Tomcat8.5
 
-详询QQ：821898835，微信：egvh56ufy7hh，承接商业项目和毕设
+详询QQ：821898835，承接商业项目和毕设
 
 主要功能模块
 
