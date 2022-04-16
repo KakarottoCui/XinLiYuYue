@@ -3,6 +3,8 @@
 
 演示视频：https://live.csdn.net/v/178886
 
+详询 微信：egvh56ufy7hh 钉钉：chengxuyuandabo，承接商业项目和毕设
+
 技术范围
 
 SpringMVC，jsp视图，前台Bootstrap
@@ -10,8 +12,6 @@ SpringMVC，jsp视图，前台Bootstrap
 工具版本
 
 mysql5.7，JDK1.8，Tomcat8.5
-
-详询 微信：egvh56ufy7hh ，承接商业项目和毕设
 
 主要功能模块
 
