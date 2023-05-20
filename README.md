@@ -1,8 +1,7 @@
 # XinLiYuYue
-基于java的心理咨询预约管理系统
+基于java SpringMVC的心理咨询预约管理系统
 
-演示视频：https://live.csdn.net/v/178886
-
+演示视频：https://live.csdn.net/v/297982
 
 详询 微信1：egvh56ufy7hh ，微信2：A15192572135 ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
 
